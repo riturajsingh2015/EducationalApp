@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">EducationalApp</string>
+    <string name="app_slogan">Welcome To GK Quiz App</string>
+    <string name="app_help">Please Answer the following Questions</string>
+    <!---Questionaire-->
+    <!---Question 1-->
+    <string name="question1Title">Question 1</string>
+    <string name="question1Text">Who is Known as the Father of Modern Computer Science ?</string>
+    <string name="question1Choice1">Charles Babbage</string>
+    <string name="question1Choice2">John Von Neuman</string>
+    <string name="question1Choice3">Alan Turing</string>
+    <string name="question1Choice4">Kurt Godel</string>
+    <string name="question1Answer">@string/question1Choice3</string>
+
+    <!---Question 2-->
+    <string name="question2Title">Question 2</string>
+    <string name="question2Text">Adolf Hitler was Born in which Country ?</string>
+    <string name="question2Choice1">Germany</string>
+    <string name="question2Choice2">Austria</string>
+    <string name="question2Choice3">Australia</string>
+    <string name="question2Choice4">United Kingdom</string>
+    <string name="question2Answer">@string/question2Choice2</string>
+
+
+    <!---Question 3-->
+    <string name="question3Title">Question 3</string>
+    <string name="question3Text">Who was the first Emperor of Mughal Empire?</string>
+    <string name="question3Choice1">Akbar</string>
+    <string name="question3Choice2">Humanyun</string>
+    <string name="question3Choice3">Babur</string>
+    <string name="question3Choice4">Aurangzeb</string>
+    <string name="question3Answer">@string/question3Choice3</string>
+
+
+    <!---Question 4-->
+    <string name="question4Title">Question 4</string>
+    <string name="question4Text">In which year World War I started?</string>
+    <string name="question4Answer">1914</string>
+
+
+    <!---Question 5-->
+    <string name="question5Title">Question 5</string>
+    <string name="question5Text">The dates on which Atomic Bombs were dropped on Hiroshima and Nagasaki ?</string>
+    <string name="question5Choice1">6,August,1945</string>
+    <string name="question5Choice2">3,August,1945</string>
+    <string name="question5Choice3">11,August,1945</string>
+    <string name="question5Choice4">9,August,1945</string>
+    <string name="question5Answer1">@string/question5Choice1</string>
+    <string name="question5Answer2">@string/question5Choice4</string>
+
+    <!---Question 6-->
+    <string name="question6Title">Question 6</string>
+    <string name="question6Text">Name the Capital of Russian Fed</string>
+    <string name="question6Choice1">Kazan</string>
+    <string name="question6Choice2">Moscow</string>
+    <string name="question6Choice3">St.Petersburg</string>
+    <string name="question6Choice4">Ufa</string>
+    <string name="question6Answer">@string/question6Choice2</string>
+
+
+    <!---Question 7-->
+    <string name="question7Title">Question 7</string>
+    <string name="question7Text">Name the Currency of Syria</string>
+    <string name="question7Choice1">Syrian Pound</string>
+    <string name="question7Choice2">Syrian Ruppee</string>
+    <string name="question7Choice3">Syrian Dollar</string>
+    <string name="question7Choice4">Syrian Yen</string>
+    <string name="question7Answer">@string/question7Choice1</string>
+
+
+
+    <!---Question 8-->
+    <string name="question8Title">Question 8</string>
+    <string name="question8Text">Annual Nobel Prize awards are named after whom?</string>
+    <string name="question8Choice1">Richie Nobel</string>
+    <string name="question8Choice2">Noble Nixon</string>
+    <string name="question8Choice3">Alfred Nobel</string>
+    <string name="question8Choice4">Jimmy Nobel</string>
+    <string name="question8Answer">@string/question8Choice3</string>
+
+    <!---Question 9-->
+    <string name="question9Title">Question 9</string>
+    <string name="question9Text">The Headquaters of World Health Organization is in ?</string>
+    <string name="question9Choice1">Paris, France</string>
+    <string name="question9Choice2">Rome, Italy</string>
+    <string name="question9Choice3">New York City, New York, United States</string>
+    <string name="question9Choice4">Geneva, Switzerland</string>
+    <string name="question9Answer">@string/question9Choice4</string>
+
+
+    <!---Question 10-->
+    <string name="question10Title">Question 10</string>
+    <string name="question10Text">Who was the first woman to have flown in space?</string>
+    <string name="question10Choice1">Sally Ride</string>
+    <string name="question10Choice2">Svetlana Savitskaya</string>
+    <string name="question10Choice3">Yelena Serova</string>
+    <string name="question10Choice4">Valentina Tereshkova</string>
+    <string name="question10Answer">@string/question10Choice4</string>
+
+
+    <!---EditText Hint-->
+    <string name="hintEditText">Enter Your Answer Here</string>
+
+    <!---Submit Button Text-->
+    <string name="submitAnswer">Submit Answers</string>
+
+
+</resources>
